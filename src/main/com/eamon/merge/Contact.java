@@ -49,6 +49,7 @@ public class Contact {
 	 */
 	@Override
 	public String toString() {
+		// This returns a description
 		return "Contact [person=" + person + ", address=" + address + "]";
 	}
 
