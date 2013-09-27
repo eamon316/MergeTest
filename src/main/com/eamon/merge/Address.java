@@ -7,14 +7,16 @@ public class Address {
 	public String line3;
 	public String city;
 	public String state;
-	public String postcode;
+	public int postcode;
 	
 	public Address() {
 		super();
-		// TODO Auto-generated constructor stub
+		line1 = "";
+		city = "Dublin";
+		postcode = 4;
 	}
 	
-	public Address(String line1, String line2, String line3, String city, String state, String postcode) {
+	public Address(String line1, String line2, String line3, String city, String state, int postcode) {
 		super();
 		this.line1 = line1;
 		this.line2 = line2;
@@ -97,14 +99,14 @@ public class Address {
 	/**
 	 * @return the postcode
 	 */
-	public String getPostcode() {
+	public int getPostcode() {
 		return postcode;
 	}
 	
 	/**
 	 * @param postcode the postcode to set
 	 */
-	public void setPostcode(String postcode) {
+	public void setPostcode(int postcode) {
 		this.postcode = postcode;
 	}
 	
