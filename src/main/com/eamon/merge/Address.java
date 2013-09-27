@@ -27,6 +27,7 @@ public class Address {
 		// Comment 1
 		// Comment 2
 		// New Address Feature Comment 1
+		// New Address Feature Comment 2
 	}
 	
 	/**
