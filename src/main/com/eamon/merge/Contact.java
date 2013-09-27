@@ -49,7 +49,7 @@ public class Contact {
 	 */
 	@Override
 	public String toString() {
-		return "Contact [person=" + person + "]";
+		return "Contact [person=" + person + ", address=" + address + "]";
 	}
 
 }
