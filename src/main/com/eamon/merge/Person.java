@@ -66,4 +66,12 @@ public class Person {
 		this.age = age;
 	}
 	
+	/**
+	 * New Method
+	 */
+	public void newMethod() {
+		int x = 2;
+		int y = 2;
+		int z = x +y;
+	}
 }
