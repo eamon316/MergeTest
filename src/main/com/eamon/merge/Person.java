@@ -16,11 +16,6 @@ public class Person {
 		this.firstName = firstName;
 		this.secondName = secondName;
 		this.age = age;
-		// Comment 1
-		// Comment 2
-		// Comment 3
-		// Comment 4
-		// Comment 5
 	}
 
 	
