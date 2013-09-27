@@ -24,6 +24,7 @@ public class Address {
 		this.city = city;
 		this.state = state;
 		this.postcode = postcode;
+		// Comment 1
 	}
 	
 	/**
