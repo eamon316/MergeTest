@@ -18,6 +18,7 @@ public class Person {
 		this.age = age;
 		// 2
 		// Rename Comment 1
+		// Rename Comment 2
 	}
 
 	
