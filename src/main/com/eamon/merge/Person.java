@@ -19,6 +19,7 @@ public class Person {
 		// 2
 		// Rename Comment 1
 		// Rename Comment 2
+		// Rename Comment 3
 	}
 
 	
