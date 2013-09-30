@@ -17,6 +17,7 @@ public class Person {
 		this.secondName = secondName;
 		this.age = age;
 		// 2
+		// Rename Comment 1
 	}
 
 	
